@@ -43,20 +43,26 @@ Understanding how AI may support future healthcare through individualized predic
 ## Project Visuals
 
 ## AlphaFold and Protein Structure Prediction
+
 Artificial Intelligence can predict protein structures with remarkable accuracy using deep learning models such as AlphaFold.
 
 alphafold.jpg
+
 ---
 ## AI-Driven Drug Discovery
+
 Machine learning enables researchers to identify promising drug candidates faster and at a lower cost.
 
 drug-discovery.jpg
+
 ---
+
 ## Digital Twins and Personalized Medicine
+
 Digital twins may allow researchers and clinicians to simulate biological responses and optimize treatments.
 
 digital-twins.jpg
----
+
 ## Project Files
 
 - Research Report (PDF)
