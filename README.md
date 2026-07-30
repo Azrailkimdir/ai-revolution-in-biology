@@ -18,16 +18,16 @@ How are Artificial Intelligence and Machine Learning transforming modern Biology
 
 ## Project Highlights
 
-### AlphaFold and Protein Structure Prediction
+## AlphaFold and Protein Structure Prediction
 Exploring how DeepMind's AlphaFold solved the protein folding problem and accelerated biological research.
 
-### Generative AI and De Novo Protein Design
+## Generative AI and De Novo Protein Design
 Investigating how AI can design novel proteins with potential applications in medicine and biotechnology.
 
-### AI-Driven Drug Discovery
+## AI-Driven Drug Discovery
 Examining how machine learning models help identify drug candidates faster and more efficiently.
 
-### Digital Twins and Personalized Medicine
+## Digital Twins and Personalized Medicine
 Understanding how AI may support future healthcare through individualized prediction and treatment strategies.
 
 ## Skills Demonstrated
@@ -44,16 +44,19 @@ Understanding how AI may support future healthcare through individualized predic
 
 ## AlphaFold and Protein Structure Prediction
 Artificial Intelligence can predict protein structures with remarkable accuracy using deep learning models such as AlphaFold.
+
 images/alphafold.jpg
 ---
 ## AI-Driven Drug Discovery
 Machine learning enables researchers to identify promising drug candidates faster and at a lower cost.
+
 images/drug-discovery.jpg
 ---
 ## Digital Twins and Personalized Medicine
 Digital twins may allow researchers and clinicians to simulate biological responses and optimize treatments.
-images/digital-twins.jpg
 
+images/digital-twins.jpg
+---
 ## Project Files
 
 - Research Report (PDF)
