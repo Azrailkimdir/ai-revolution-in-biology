@@ -51,7 +51,7 @@ Artificial Intelligence can predict protein structures with remarkable accuracy 
 ---
 Machine learning enables researchers to identify promising drug candidates faster and at a lower cost.
 
-
+![AI Drug Discovery](AI%20Drug%20Discovery.jpg)
 
 ---
 
