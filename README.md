@@ -1,3 +1,7 @@
+## Project Status
+
+🚧 In Development
+
 # The AI Revolution in Biology 🤖🧬
 
 An independent research project exploring how Artificial Intelligence is transforming Molecular Biology, Protein Structure Prediction, Drug Discovery, Bioinformatics and Personalized Medicine.
