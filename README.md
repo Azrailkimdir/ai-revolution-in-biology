@@ -70,4 +70,3 @@ Digital twins may allow researchers and clinicians to simulate biological respon
 ## Author
 
 Sarp AKAR
-Prospective Molecular Biology Student
