@@ -52,12 +52,12 @@ Digital twins may allow researchers and clinicians to simulate biological respon
 
 One of the most fascinating things I discovered during this project was that AI can now predict protein structures with remarkable accuracy. Problems that once required years of laboratory work can now be approached using powerful computational tools and machine learning models such as AlphaFold.
 
-![AlphaFold](alphafold-protein-folding.png.jpg)
+![AlphaFold](alphafold-protein-folding.png)
 
 ---
 Artificial Intelligence is helping researchers identify promising drug candidates much faster than traditional methods. Instead of testing compounds one by one, AI systems can analyze huge datasets and help scientists focus on the most promising solutions.
 
-![AI Drug Discovery](ai-driven-drug-discovery.png.jpg)
+![AI Drug Discovery](ai-driven-drug-discovery.png)
 
 ---
 
@@ -65,7 +65,7 @@ Artificial Intelligence is helping researchers identify promising drug candidate
 
 Digital Twin technology shows how biology, medicine, data science, and Artificial Intelligence can work together. By creating virtual models of patients, researchers may be able to simulate treatments and better understand how different therapies could perform before they are applied in real life.
 
-![Digital Twins](digital-twins-personalized-medicine.png.jpg)
+![Digital Twins](digital-twins-personalized-medicine.png)
 
 ## Project Files
 
