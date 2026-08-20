@@ -73,6 +73,9 @@ Digital Twin technology shows how biology, medicine, data science, and Artificia
 - Figures and Infographics
 - References
 
+### Access Full Report
+[The AI Revolution in Biology](AI_Revolution_in_Biology.pdf)
+
 ## Author
 
 Sarp AKAR
