@@ -2,7 +2,7 @@
 
 🚧 In Development
 
-# The AI Revolution in Biology 🤖🧬
+# The AI Revolution in Biology 
 
 An independent research project exploring how Artificial Intelligence, Data Science, and Computational Tools are transforming scientific discovery and helping researchers solve complex problems.
 
