@@ -1,6 +1,6 @@
 ## Project Status
 
-🚧 In Development
+🚧 Completed - Pending Teacher Review
 
 # The AI Revolution in Biology 
 
@@ -13,13 +13,9 @@ How are Artificial Intelligence and Machine Learning transforming modern Biology
 ## Research Areas
 
 - Artificial Intelligence
-- Machine Learning
 - Data Science
-- Computational Thinking
 - Bioinformatics
-- Scientific Modeling
 - Personalized Medicine
-- Systems Thinking
 
 ## Project Highlights
 
@@ -39,12 +35,8 @@ Digital twins may allow researchers and clinicians to simulate biological respon
 • Data Analysis
 • Computational Thinking
 • Scientific Research
-• Systems Thinking
 • Problem Solving
 • Critical Thinking
-• Scientific Communication
-• Scientific Modeling
-• Technology Literacy
 
 ## Project Visuals
 
@@ -79,3 +71,6 @@ Digital Twin technology shows how biology, medicine, data science, and Artificia
 ## Author
 
 Sarp AKAR
+Sept 2026
+
+
