@@ -60,7 +60,7 @@ Digital Twin technology shows how biology, medicine, data science, and Artificia
 ![Digital Twins](digital-twins-personalized-medicine.png.png)
 
 
-### Access Full Report
+### Access Full Research Report
 [The AI Revolution in Biology](AI_Revolution_in_Biology.pdf)
 
 ## Author
