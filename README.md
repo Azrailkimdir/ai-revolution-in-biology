@@ -71,6 +71,7 @@ Digital Twin technology shows how biology, medicine, data science, and Artificia
 ## Author
 
 Sarp AKAR
+
 Sept 2026
 
 
